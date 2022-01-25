@@ -1,5 +1,7 @@
 hostname firewall2.txt
 
+username cisco password cisco
+
 int te 1/1/1
 nameif outside
 ip address 10.30.30.2 255.255.255.0
